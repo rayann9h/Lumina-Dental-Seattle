@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Dental Seattle",
+  "description": "Premier dental studio booking application featuring interactive appointment scheduling, team profiles, service catalog, smile gallery, patient reviews, and AI concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
